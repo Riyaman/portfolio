@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.section-first {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading {
+    font-size: 2rem;
+    text-align: center;
+    animation-delay: 0.2s;
+}
+
+.project1img {
+    height: 20vw;
+    width: 37vw;
+}
+.img2 {
+    height: 26vw;
+    margin-top: 2vw;
+    margin-left: 9vw;
+    width: 46%;
+}
+.pro-des{
+    line-height: 2;
+}
+.left-Section {
+    display: flex;  
+    padding-left: 40px;
+    margin-top: 30px;
+}
+.right-Section {
+    padding-left: 4vw;
+}
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.section-second {
+    display: flex;
+    align-items: center;
+}
+.sec-right-section{
+    padding-left: 4vw;
+}
+.amz-img{
+    margin-left: 2vw;
+    margin-top: 2vw;
+    height: 20vw;
+    width: 37vw;
+}
+.prim-vid-des{
+    margin-bottom: 2vw;
+    line-height: 1.9;
+}
+.footer-right{
+    padding: 20px;
+    text-align: center;
+}

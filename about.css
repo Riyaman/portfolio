@@ -1,0 +1,77 @@
+.first-sec {
+    font-family: Arial, sans-serif;
+    background-color: rgb(55, 2, 55);
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+}
+
+.skills, .about {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.skills {
+    width: 40%;
+    background-color: rgb(55, 2, 55);
+}
+
+.skills h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.skill {
+    margin-bottom: 15px;
+}
+
+.skill p {
+    margin: 0;
+    font-weight: bold;
+}
+
+.skill-bar {
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 10px;
+    margin-top: 5px;
+}
+
+.skill-level {
+    height: 100%;
+}
+
+.leadership { width: 80%; background-color: #ad066d; }
+.collaboration { width: 75%; background-color: #ad066d; }
+.problem-solving { width: 65%; background-color:  #ad066d;}
+.communication { width: 70%; background-color:  #ad066d;}
+.html { width: 80%; background-color: #ad066d; }
+.css3 { width: 70%; background-color:  #ad066d;}
+.javascript { width: 65%; background-color:  #ad066d;}
+.sql { width: 75%; background-color: #ad066d;}
+.dbms { width: 65%; background-color: #ad066d; }
+
+.about {
+    width: 60%;
+    background-color: rgb(55, 2, 55);
+    padding-left: 40px;
+}
+
+.about h2 {
+    margin-bottom: 20px;
+}
+
+.about p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}

@@ -1,0 +1,12 @@
+Excited to share a milestone in my web development journey! 🚀 Just wrapped up Task 2 at Prodigy InfoTech, where I successfully designed and developed a Tic-Tac-Toe web app. 🌐💻 Grateful for the opportunity to apply my skills and contribute to real-world projects. Special thanks to the amazing team at Prodigy Infotech for the guidance and support! Looking forward to more learning and growth ahead. 
+
+Excited to share a milestone in my web development journey! 🚀
+🚀 Completed Task 4nof my Web Development Internship at Prodigy InfoTech! 🚀
+Thrilled to share that I've successfully wrapped up Task 4 of my internship journey at Prodigy InfoTech, diving deep into the world of HTML, CSS! 
+🌐💻Live Preview: https://riyaman.github.io/PRODIGY_WB_04/
+GitHub  Repositories: https://github.com/Riyaman/PRODIGY_WB_04
+🔍 Task Description: Implemented a dynamic and responsive portfolio website using HTML, CSS, and W3forms for contact me. The challenge was to send contact form data  in email and i will achive that with the api of W3forms.
+✨ Highlights:
+Developed sleek and good user interfaces with HTML, CSS.
+Leveraged the power of vanilla JS to create dynamic and interactive components.
+Overcame challenges.

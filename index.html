@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <title> janhavi-portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.comcrossorigin">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,200;1,300;1,500&display=swap">
+    <link rel="stylesheet" href="script.css">
+    <link rel="stylesheet" href="project.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="left">
+                janhavi's portfolio
+            </div>
+            <div class="right">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="project.html">Project</a></li>
+                    <li><a href="contact.html">Contact Me</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="firstSection">
+            <div class="leftSection">
+                Hi, my name is <sapn class="purple">janhavi</sapn>
+                <div>and i am a passionate</div>
+                <div>
+                    <span id="element" class="purple">Python Developer</span>
+                    <div class="buttons">
+                        <button class="btn"><a class="btn-github" href="https://drive.google.com/file/d/14UgTJBHY36hBnDb2nsEPyKM_27cEq2CI/view">Download Resume</a></button>
+                        <button class="btn"><a class="btn-github" href="https://github.com/Riyaman">Visit Github</a></button>
+                    </div>
+                </div>
+            </div>
+            <div class="rightSection">
+                <img class="img" src="img.jpg">
+            </div>
+        </section>
+        <footer>
+            <div class="footer-rights">
+                www.janhavisportfolio.com | All &copy; rights reserved
+            </div>
+        </footer>
+    </main>
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed('#element', {
+            strings: ['Web Devloper', 'Python Developer', 'Data Analyst', 'Game Developer'],
+            typeSpeed: 50,
+        });
+    </script>
+</body>
+</html>
